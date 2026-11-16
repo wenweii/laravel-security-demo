@@ -5,6 +5,6 @@
   "license": "MIT",
   "require": {
     "php": "^8.3",
-    "psr/log": "^3.0"
+    "symfony/http-foundation": "5.4.0"
   }
 }
