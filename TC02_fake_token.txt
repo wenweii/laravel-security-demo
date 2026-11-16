@@ -1,0 +1,2 @@
+TRAINING ONLY - synthetic marker, not a real credential
+SECURITY_CI_TEST_TOKEN_ABCDEFGHIJKLMNOPQRSTUVWX
