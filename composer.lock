@@ -1,0 +1,19 @@
+{
+  "_readme": [
+    "This is a controlled Composer fixture for a Security CI tutorial.",
+    "The normal baseline contains no third-party packages. TC-04 swaps in a vulnerable fixture for testing."
+  ],
+  "content-hash": "00000000000000000000000000000000",
+  "packages": [],
+  "packages-dev": [],
+  "aliases": [],
+  "minimum-stability": "stable",
+  "stability-flags": {},
+  "prefer-stable": true,
+  "prefer-lowest": false,
+  "platform": {
+    "php": "^8.3"
+  },
+  "platform-dev": {},
+  "plugin-api-version": "2.6.0"
+}

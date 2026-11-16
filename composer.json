@@ -1,0 +1,9 @@
+{
+  "name": "training/security-ci-demo",
+  "description": "Safe PHP/Composer fixture for Laravel security CI workflow demonstration; not a full Laravel app",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": "^8.3"
+  }
+}
