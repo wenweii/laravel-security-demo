@@ -1,0 +1,14 @@
+name: Laravel Security CI
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  security-gate:
+    # REQUIRED: replace wenweii with your GitHub Owner name.
+    uses: wenweii/security-ci/.github/workflows/laravel-security-required.yml@main
