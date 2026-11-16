@@ -4,6 +4,7 @@
   "type": "project",
   "license": "MIT",
   "require": {
-    "php": "^8.3"
+    "php": "^8.3",
+    "psr/log": "^3.0"
   }
 }
